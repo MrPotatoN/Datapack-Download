@@ -15,7 +15,7 @@ Content:
 
 
 
--Im going to add more thing but not much
+-Im going to add more things but this is just a project dont expect a big datapack 
 
 
 made by MrPotatoN with MCreator
